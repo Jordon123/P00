@@ -10,7 +10,7 @@ class CalculatorTest {
 	
 	@BeforeEach 
 	void setUp() throws Exception {
-	}
+	} 
 
 	@BeforeAll
 	static void setUpBeforeClass() throws Exception {
