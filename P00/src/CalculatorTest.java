@@ -16,7 +16,7 @@ class CalculatorTest {
 	static void setUpBeforeClass() throws Exception {
 	}
 	
-
+ 
 	@Test
 	public void testAdd() {
 		//fail("Not yet implemented");
