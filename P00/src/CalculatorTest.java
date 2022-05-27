@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 
 class CalculatorTest {
 	
-	@BeforeEach
+	@BeforeEach 
 	void setUp() throws Exception {
 	}
 
