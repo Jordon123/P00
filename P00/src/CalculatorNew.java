@@ -5,6 +5,7 @@ public class CalculatorNew {
 	}
 	// i am happy
 	//i am sad
+	// i like men
 	public int subtract(int a, int b) {
 		return a - b;
 	}  
