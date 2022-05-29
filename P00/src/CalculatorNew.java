@@ -9,6 +9,7 @@ public class CalculatorNew {
 	public int subtract(int a, int b) {
 		return a - b;
 	}  
+	// i like women
 	
 	public int multiple(int a, int b) {
 		return a*b;
