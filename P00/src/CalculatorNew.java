@@ -10,8 +10,7 @@ public class CalculatorNew {
 		return a - b;
 	}  
 	// i like women
-	// jordon gay
-	
+	// rizwan fking aay
 	public int multiple(int a, int b) {
 		return a*b;
 	}
